@@ -52,9 +52,10 @@ Sistema de inteligência artificial integrado ao GLPI para auxiliar processos de
 
 ### 🌐 Lar do Benjamim
 Projeto desenvolvido através de extensão universitária para criação e manutenção do site institucional da organização.
+Acesse:
+https://lardobenjamim.com.br/
 
 ### ⚡ Enel Automate(Em desenvolvimento)
 Sistema de automação para processamento de faturas de energia, leitura de PDFs, cálculos de economia e geração de relatórios.
 
-Acesse:
-https://lardobenjamim.com.br/
+
